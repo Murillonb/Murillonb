@@ -4,15 +4,16 @@ Este portfólio tem como objetivo mostrar minhas habilidades em resolver problem
 
 <img style='padding-left: 20px;' width='250px' align='right' src='https://media.tenor.com/80EXmSbQc2MAAAAC/andre-braugher-statistics-is-so-beautiful.gif'>
 
-### Me chamo Murillo Baba :relaxed:
+### Me chamo Murillo Baba 😄
 _Cientista de Dados_
 
 Estudo ciência de dados desde setembro de 2022.<br> 
 Aprendi a utilizar ferramentas e técnicas para resolução de problemas de negócio,<br>
 e, também, os principais passos de um projeto de ciência de dados para contribuir<br>
-com a tomada de decisão.<br> Durante este percurso desenvolvi três projetos completos,<br>
-sendo um de insights, um de previsão de vendas e o terceiro de priorização de clientes<br>
-para realização de venda cruzada.
+com a tomada de decisão.<br> 
+Durante este percurso desenvolvi três projetos completos,<br>
+sendo um de insights, um de previsão de vendas e o terceiro de priorização de<br>
+clientes para realização de venda cruzada.
 
 Para mais detalhes dos projetos você pode acessar:
 
