@@ -15,15 +15,29 @@ Durante este percurso desenvolvi três projetos completos,<br>
 sendo um de insights, um de previsão de vendas e o terceiro de priorização de<br>
 clientes para realização de venda cruzada.
 
-Para mais detalhes dos projetos você pode acessar:
+### 🗂 Meus projetos:
 
-:white_check_mark: <a href='https://github.com/Murillonb/house_rocket' target='_blank'>Identificação de imóveis para compra e revenda a fim de maximizar o lucro</a><br>
-:white_check_mark: <a href='https://github.com/Murillonb/DS_em_Producao' target='_blank'>Previsão de vendas</a><br>
-:white_check_mark: <a href='https://github.com/Murillonb/PA04-health_insurance_cross_sell' target='_blank'>Ranqueamento de potenciais clientes</a>
+<h4>:point_right: <a href='https://github.com/Murillonb/house_rocket' target='_blank'>Identificação de imóveis para compra e revenda a fim de maximizar o lucro</a> :house:</h4>
+<p>
+O problema de negócio envolve listar os principais imóveis para serem comprados e revendidos com o maior lucro possível.<br>
+Através da análise dos dados disponíveis foram identificados <b>743 imóveis</b> passíveis de serem adquiridos, com uma estimativa de lucro de <b>$ 102.839.213,40</b>.
+</p>
+
+<h4>:point_right: <a href='https://github.com/Murillonb/DS_em_Producao' target='_blank'>Previsão de vendas</a> :crystal_ball:</h4>
+<p>
+Para esse problema de negócio foi necessário utilizar um modelo de Machine Learning para fazer a previsão de vendas das lojas para as próximas 6 semanas.<br>
+O projeto apresentou as métricas <b>MAPE e RMSE</b> de <b>9,9% e $995,6</b>, respectivamente. Com uma predição de venda total para as 06 semanas de <b>$ 282.184.064,00</b>.
+</p>
+
+<h4>:point_right: <a href='https://github.com/Murillonb/PA04-health_insurance_cross_sell' target='_blank'>Ranqueamento de potenciais clientes</a> :1st_place_medal:</h4>
+<p>
+Através da utilização de modelos de Machine Learning de Classificação, foi possível listarmos, de forma descrescente, os clientes com maior interesse no novo produto ofertado.<br>
+O modelo previu que se o time de vendas efetuasse <b>20.000 ligações</b>, ele atingiria <b>86,3% do total de interessados</b>, sendo <b>mais de 2 vezes</b> mais eficiente do que se fossem feitas ligações aleatórias.
+</p>
 
 ### :telephone_receiver: Contatos:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murillonb)](https://www.linkedin.com/in/murillonb)
-[![Meu Portfólio](https://img.shields.io/badge/-Meu%20Portf%C3%B3lio-black?color=%23b54b02)](https://murillonb.github.io/portfolio/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murillonb)](https://www.linkedin.com/in/murillonb) &nbsp;
+[![Meu Portfólio](https://img.shields.io/badge/-Meu%20Portf%C3%B3lio-black?color=%23b54b02)](https://murillonb.github.io/portfolio/) &nbsp;
 [![E-mail](https://img.shields.io/badge/-Email-%230078D4?logo=microsoftoutlook&color=%230078D4)](mailto:murillo_099@hotmail.com)
 
 ### 🛠️ Ferramentas:
