@@ -1,6 +1,6 @@
 <h1>Meu Portfólio</h1>
 
-Este portfólio tem como objetivo mostrar minhas habilidades em resolver problemas de negócio utilizando conceitos e ferramentas da Ciência de Dados.
+Este portfólio tem como objetivo mostrar minhas habilidades de resolver problemas de negócio utilizando conceitos e ferramentas da Ciência de Dados.
 
 <img style='padding-left: 20px;' width='250px' align='right' src='https://media.tenor.com/80EXmSbQc2MAAAAC/andre-braugher-statistics-is-so-beautiful.gif'>
 
