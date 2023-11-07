@@ -55,6 +55,8 @@ Estatística e Machine Learning:<br>
 :heavy_check_mark: Pacote de Machine Learning: Sklearn
 	
 Visualização de Dados:<br>
+:heavy_check_mark: Power BI<br>
+:heavy_check_mark: Excel<br>
 :heavy_check_mark: Matplotlib, Seaborn, Plotly
 	
 Engenharia de Software:<br>
