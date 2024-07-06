@@ -49,7 +49,7 @@ Linguagens de Programação e Banco de Dados:<br>
 
 Estatística e Machine Learning:<br>
 :heavy_check_mark: Estatística descritiva (localização, dispersão, assimetria, densidade)<br>
-:heavy_check_mark: Algoritmos de Reressão, classificação<br>
+:heavy_check_mark: Algoritmos de Regressão, classificação<br>
 :heavy_check_mark: Técnicas de balanceamento dos dados e seleção de atributos<br>
 :heavy_check_mark: Métricas de performance dos algoritmos (RMSE, MAE, MAPE, Confusion Matrix, Precisão, Recall)<br>
 :heavy_check_mark: Pacote de Machine Learning: Sklearn
