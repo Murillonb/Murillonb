@@ -1,64 +1,69 @@
-<h1>Meu Portfólio</h1>
+# Hi, I'm Murillo 👋
 
-Este portfólio tem como objetivo mostrar minhas habilidades de resolver problemas de negócio utilizando conceitos e ferramentas da Ciência de Dados.
+Aspiring Front-End Developer based in Paris, currently transitioning from a career in public administration in Brazil to software development.
 
-<img style='padding-left: 20px;' width='250px' align='right' src='https://media.tenor.com/80EXmSbQc2MAAAAC/andre-braugher-statistics-is-so-beautiful.gif'>
+## About Me
 
-### Me chamo Murillo Baba 😄
-_Cientista de Dados_
+I'm focused on building a solid foundation in front-end development through practical projects using HTML, CSS, JavaScript, and React.
 
-Estudo ciência de dados desde setembro de 2022.<br> 
-Aprendi a utilizar ferramentas e técnicas para resolução de problemas de negócio,<br>
-e, também, os principais passos de um projeto de ciência de dados para contribuir<br>
-com a tomada de decisão.<br> 
-Durante este percurso desenvolvi três projetos completos,<br>
-sendo um de insights, um de previsão de vendas e o terceiro de priorização de<br>
-clientes para realização de venda cruzada.
+Before moving into tech, I worked in public administration, where I developed strong skills in organization, responsibility, attention to detail, problem-solving, and process improvement.
 
-### 🗂 Meus projetos:
+Moving to France has also strengthened my adaptability and willingness to face new challenges. I'm currently improving my English, learning French, and looking for my first professional opportunity in tech.
 
-<h4>:point_right: <a href='https://github.com/Murillonb/house_rocket' target='_blank'>Identificação de imóveis para compra e revenda a fim de maximizar o lucro</a> :house:</h4>
-<p>
-O problema de negócio envolve listar os principais imóveis para serem comprados e revendidos com o maior lucro possível.<br>
-Através da análise dos dados disponíveis foram identificados <b>743 imóveis</b> passíveis de serem adquiridos, com uma estimativa de lucro de <b>$ 102.839.213,40</b>.
-</p>
+## Current Focus
 
-<h4>:point_right: <a href='https://github.com/Murillonb/DS_em_Producao' target='_blank'>Previsão de vendas</a> :crystal_ball:</h4>
-<p>
-Para esse problema de negócio foi necessário utilizar um modelo de Machine Learning para fazer a previsão de vendas das lojas para as próximas 6 semanas.<br>
-O projeto apresentou as métricas <b>MAPE e RMSE</b> de <b>9,9% e $995,6</b>, respectivamente. Com uma predição de venda total para as 06 semanas de <b>$ 282.184.064,00</b>.
-</p>
+- Building front-end projects with HTML, CSS, JavaScript, and React
+- Improving my JavaScript fundamentals
+- Learning React through practical applications
+- Practicing responsive design and clean UI structure
+- Improving my English
 
-<h4>:point_right: <a href='https://github.com/Murillonb/PA04-health_insurance_cross_sell' target='_blank'>Ranqueamento de potenciais clientes</a> :1st_place_medal:</h4>
-<p>
-Através da utilização de modelos de Machine Learning de Classificação, foi possível listarmos, de forma descrescente, os clientes com maior interesse no novo produto ofertado.<br>
-O modelo previu que se o time de vendas efetuasse <b>20.000 ligações</b>, ele atingiria <b>86,3% do total de interessados</b>, sendo <b>mais de 2 vezes</b> mais eficiente do que se fossem feitas ligações aleatórias.
-</p>
+## Tech Stack
 
-### :telephone_receiver: Contatos:
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/murillonb)](https://www.linkedin.com/in/murillonb) &nbsp;
-[![Meu Portfólio](https://img.shields.io/badge/-Meu%20Portf%C3%B3lio-black?color=%23b54b02)](https://murillonb.github.io/portfolio/) &nbsp;
-[![E-mail](https://img.shields.io/badge/-Email-%230078D4?logo=microsoftoutlook&color=%230078D4)](mailto:murillo_099@hotmail.com)
+- HTML
+- CSS
+- JavaScript
+- React
+- Git
+- SQL
 
-### 🛠️ Ferramentas:
+## Featured Project
 
-Linguagens de Programação e Banco de Dados:<br>
-:heavy_check_mark: Python com foco em análise de dados<br>
-:heavy_check_mark: Bibliotecas: Pandas, Matplotlib, Numpy, Seaborn, Streamlit<br>
-:heavy_check_mark: SQL para extração de dados<br>
+### TaskFlow — Task Management App
 
-Estatística e Machine Learning:<br>
-:heavy_check_mark: Estatística descritiva (localização, dispersão, assimetria, densidade)<br>
-:heavy_check_mark: Algoritmos de Regressão, classificação<br>
-:heavy_check_mark: Técnicas de balanceamento dos dados e seleção de atributos<br>
-:heavy_check_mark: Métricas de performance dos algoritmos (RMSE, MAE, MAPE, Confusion Matrix, Precisão, Recall)<br>
-:heavy_check_mark: Pacote de Machine Learning: Sklearn
-	
-Visualização de Dados:<br>
-:heavy_check_mark: Power BI<br>
-:heavy_check_mark: Excel<br>
-:heavy_check_mark: Matplotlib, Seaborn, Plotly
-	
-Engenharia de Software:<br>
-:heavy_check_mark: Git, Github<br>
-:heavy_check_mark: Serviço Streamlit Cloud
+A simple task management app built from scratch to help users organize and track their daily tasks.
+
+**Tech Stack:** HTML, CSS, Vanilla JavaScript, Local Storage
+
+**Features:**
+
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
+- Filter tasks by open or completed status
+- Automatically display task creation date
+- Save tasks in the browser using Local Storage
+- Add clickable links inside task descriptions
+- Responsive layout
+
+[[Live Demo](https://murillonb.github.io/taskflow/)] · [[Repository](https://github.com/Murillonb/taskflow)]
+
+## Professional Background
+
+My previous experience helped me develop transferable skills that I bring into software development:
+
+- Problem Solving
+- Process Improvement
+- Ownership
+- Organization
+- Communication
+- Attention to Detail
+- Adaptability
+- Data-driven mindset
+
+I believe this background helps me approach development not only as code, but as a way to solve real problems and create useful solutions.
+
+## Connect with Me
+
+[[My Portfolio](https://murillonb.github.io/)]
+[[My Linkedin](https://www.linkedin.com/in/murillonb/)]
