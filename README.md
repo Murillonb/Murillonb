@@ -2,6 +2,9 @@
 
 Aspiring Front-End Developer based in Paris, currently transitioning from a career in public administration in Brazil to software development.
 
+[![My Portfolio](https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://murillonb.github.io/)
+[![My LinkedIn](https://img.shields.io/badge/My_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murillonb/)
+
 ## About Me
 
 I'm focused on building a solid foundation in front-end development through practical projects using HTML, CSS, JavaScript, and React.
@@ -61,8 +64,3 @@ My previous experience helped me develop transferable skills that I bring into s
 - Data-driven mindset
 
 I believe this background helps me approach development not only as code, but as a way to solve real problems and create useful solutions.
-
-## Connect with Me
-
-[![My Portfolio](https://img.shields.io/badge/My_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://murillonb.github.io/)
-[![My LinkedIn](https://img.shields.io/badge/My_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/murillonb/)
